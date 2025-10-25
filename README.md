@@ -39,9 +39,9 @@
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/andreslucasjaramillo)  
+- [LinkedIn](https://www.linkedin.com/in/andreslucasj)  
 - [Google Scholar](#) <!-- Add your profile link if available -->
-- [Email](mailto:your.email@domain.com)
+- [Email](mailto:alucasjaram@unav.es)
 
 ---
 
